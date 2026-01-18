@@ -6,34 +6,6 @@ I enjoy building practical, well designed products, moving fast from idea to imp
 
 ---
 
-## 🛠️ What I work with
-
-**Languages**
-- Python
-- JavaScript
-- TypeScript
-- R
-- SQL
-
-**Frontend**
-- React
-- HTML
-- CSS
-
-**Backend**
-- Flask
-- Node.js
-
-**Databases**
-- PostgreSQL
-
-**Tools**
-- Git
-- Chrome Extensions
-- REST APIs
-
----
-
 ## 🚀 Projects
 
 Here are a few things I’ve built or am actively working on:
