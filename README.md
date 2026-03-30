@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Neiloy
 
-I’m a **Management Engineering student at the University of Waterloo** working as a **software engineer**.
+I’m a **Management Engineering student at the University of Waterloo** working as a **product manager**.
 
 I enjoy building practical, well designed products, moving fast from idea to implementation, and learning by shipping real things. I’m especially interested in full stack development, developer tools, and product driven engineering.
 
